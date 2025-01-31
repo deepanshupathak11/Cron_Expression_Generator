@@ -1,3 +1,3 @@
 # CronExpressionMaker
 
-You can use this code in springBoot To schedule jobs
+You can use this code in SpringBoot To schedule jobs
